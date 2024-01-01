@@ -1,0 +1,9 @@
+    .fas{
+        display: flex;
+        flex-direction: column;
+    }
+    .lets{
+        display: flex;
+        flex-direction: row;
+    }
+  
